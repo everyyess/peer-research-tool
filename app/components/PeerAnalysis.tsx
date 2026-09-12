@@ -2,9 +2,10 @@
 
 import { useRef, useState, type FormEvent, type ReactNode } from "react";
 import { Activity, ArrowUpRight, ChartNoAxesCombined, CircleAlert, Loader2, Plus, Trash2, Users } from "lucide-react";
-import { Bar, BarChart, CartesianGrid, Cell, LabelList, Line, LineChart, ReferenceLine, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis, ZAxis } from "recharts";
+import { Bar, BarChart, CartesianGrid, Cell, LabelList, ReferenceLine, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis, ZAxis } from "recharts";
 import type { PeerAnalysisResponse, PeerMetrics } from "@/app/api/peer-analysis/route";
 import DataSourceComparison from "./DataSourceComparison";
+import DartProfitabilityCycle from "./DartProfitabilityCycle";
 
 const COLORS = ["#2563eb", "#089981", "#d99720", "#8757c7", "#db5976", "#0e9fb5", "#e37535", "#68758c"];
 const METRICS = [
@@ -99,9 +100,6 @@ export default function PeerAnalysis() {
   const peers = allPeers.filter(p => !p.error);
   const growth = METRICS.slice(0, 3).map(m => ({ metric: m.label, ...Object.fromEntries(peers.map(p => [p.series, numberOrNull(p[m.key])])) }));
   const hasGrowth = peers.some(p => METRICS.slice(0, 3).some(m => numeric(p[m.key])));
-  const years = [...new Set(peers.flatMap(p => p.annuals.map(a => a.year)))].sort();
-  const annuals = years.map(year => ({ year, ...Object.fromEntries(peers.map(p => [p.series, numberOrNull(p.annuals.find(a => a.year === year)?.operatingMargin)])) }));
-  const hasAnnuals = peers.some(p => p.annuals.some(a => numeric(a.operatingMargin)));
   const xMetric = METRICS.find(m => m.key === xKey)!;
   const yMetric = METRICS.find(m => m.key === yKey)!;
   const points = peers.flatMap(p => numeric(p[xKey]) && numeric(p[yKey]) ? [{ ...p, x: p[xKey], y: p[yKey], z: numeric(p.marketCap) && p.marketCap > 0 ? p.marketCap : 0 }] : []);
@@ -135,9 +133,8 @@ export default function PeerAnalysis() {
           <Card number="02" title="PER / PBR 52주 밴드" description="현재 EPS/BPS 고정 근사 · ● 현재 위치" controls={<div className="segmented">{(["per", "pbr"] as const).map(m => <button key={m} onClick={() => setBand(m)} aria-pressed={band === m} className={band === m ? "active" : ""}>{m.toUpperCase()}</button>)}</div>}>
             <div className="bands">{peers.length ? peers.map(p => <Band key={p.symbol} peer={p} metric={band} />) : <Empty>밴드를 표시할 기업이 없습니다.</Empty>}</div><p className="chart-note">52주 고저가에 현재 EPS/BPS를 적용한 범위이며, 과거 실제 배수 이력은 아닙니다.</p>
           </Card>
-          <Card number="03" title="수익성 사이클" description="기업별 연간 영업이익률 추이 · 단위 %">
-            {hasAnnuals ? <div className="chart"><ResponsiveContainer width="100%" height="100%" minWidth={1}><LineChart data={annuals} margin={{ top: 20, right: 20, bottom: 8, left: 0 }}><CartesianGrid vertical={false} stroke="#edf0f5" /><XAxis dataKey="year" tick={tick} tickLine={false} axisLine={false} /><YAxis tick={tick} tickLine={false} axisLine={false} /><ReferenceLine y={0} stroke="#c3ccda" /><Tooltip formatter={pctTooltip} />{peers.map(p => <Line key={p.symbol} name={p.name} dataKey={p.series} stroke={p.color} strokeWidth={2.5} dot={{ r: 4, strokeWidth: 2, fill: "#fff" }} connectNulls={false} isAnimationActive={false} />)}</LineChart></ResponsiveContainer></div> : <Empty>연간 영업이익률 데이터가 없습니다.</Empty>}
-            <p className="chart-note">기업별 최근 연간 데이터 기준 · 누락된 연도는 연결하지 않습니다.</p>
+          <Card number="03" title="수익성 사이클" description="OpenDART 연결재무제표 기준 · 연간 영업이익률">
+            <DartProfitabilityCycle peers={allPeers} />
           </Card>
           <Card number="04" title="Peer 사분면" description="버블 크기 = 시가총액 · 점선 = 표시 기업의 중앙값">
             <div className="axis-controls">{([{ axis: "X", value: xKey, change: setXKey }, { axis: "Y", value: yKey, change: setYKey }] as const).map(a => <label key={a.axis}>{a.axis}축<select value={a.value} onChange={e => a.change(e.target.value as MetricKey)}>{METRICS.map(m => <option value={m.key} key={m.key}>{m.label}</option>)}</select></label>)}</div>

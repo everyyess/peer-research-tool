@@ -1,0 +1,3390 @@
+[
+  {
+    "stockCode": "103590",
+    "corpCode": "00683469",
+    "corpName": "일진전기",
+    "report": {
+      "rceptNo": "20260811000431",
+      "reportName": "반기보고서 (2026.06)",
+      "reportDate": "20260811",
+      "corpCode": "00683469",
+      "reportType": "half",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260811000431"
+    },
+    "orderSections": [
+      {
+        "title": "다. 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주총액",
+          "수주",
+          "수주상황"
+        ],
+        "sourceFile": "20260811000431.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[9]/SECTION-1[15]/LIBRARY[5]/SECTION-2[7]/TABLE[47]",
+        "tables": [
+          {
+            "columns": [
+              "품목",
+              "구분",
+              "수주일자",
+              "납 기",
+              "수주총액",
+              "기납품액",
+              "수주잔고"
+            ],
+            "headerRows": [
+              [
+                "품목",
+                "구분",
+                "수주일자",
+                "납 기",
+                "수주총액",
+                "기납품액",
+                "수주잔고"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "전력선 등",
+                "국내",
+                "~2026년 반기",
+                "-",
+                "338,572",
+                "119,444",
+                "219,129"
+              ],
+              [
+                "해외",
+                "~2026년 반기",
+                "-",
+                "496,756",
+                "66,925",
+                "429,831"
+              ],
+              [
+                "계",
+                "835,329",
+                "186,369",
+                "648,960"
+              ],
+              [
+                "변압기 등중전기",
+                "국내",
+                "~2026년 반기",
+                "-",
+                "336,185",
+                "86,419",
+                "249,766"
+              ],
+              [
+                "해외",
+                "~2026년 반기",
+                "-",
+                "1,224,647",
+                "184,282",
+                "1,040,365"
+              ],
+              [
+                "계",
+                "1,560,831",
+                "270,700",
+                "1,290,131"
+              ],
+              [
+                "합 계",
+                "국내",
+                "~2026년 반기",
+                "-",
+                "674,757",
+                "205,862",
+                "468,895"
+              ],
+              [
+                "해외",
+                "~2026년 반기",
+                "-",
+                "1,721,403",
+                "251,207",
+                "1,470,196"
+              ],
+              [
+                "계",
+                "2,396,160",
+                "457,069",
+                "1,939,091"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "구분",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납 기",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주총액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전력선 등",
+                  "tag": "TD",
+                  "rowSpan": 3,
+                  "colSpan": 1
+                },
+                {
+                  "text": "국내",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~2026년 반기",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "338,572",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "119,444",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "219,129",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "해외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~2026년 반기",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "496,756",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "66,925",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "429,831",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "계",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 3
+                },
+                {
+                  "text": "835,329",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "186,369",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "648,960",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "변압기 등중전기",
+                  "tag": "TD",
+                  "rowSpan": 3,
+                  "colSpan": 1
+                },
+                {
+                  "text": "국내",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~2026년 반기",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "336,185",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "86,419",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "249,766",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "해외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~2026년 반기",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,224,647",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "184,282",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,040,365",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "계",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 3
+                },
+                {
+                  "text": "1,560,831",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "270,700",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,290,131",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "합 계",
+                  "tag": "TD",
+                  "rowSpan": 3,
+                  "colSpan": 1
+                },
+                {
+                  "text": "국내",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~2026년 반기",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "674,757",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "205,862",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "468,895",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "해외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~2026년 반기",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,721,403",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "251,207",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,470,196",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "계",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 3
+                },
+                {
+                  "text": "2,396,160",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "457,069",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,939,091",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "(4) 판매전략\n(가) 수주정책 ① 고부가가치 제품에 대한 적극적인 마케팅으로 수익성 제고 ② 해외시장 다변화 전략 추진으로 수주증대 (나) 제품 정책 ① 신제품 개발을 통한 안정적인 영업기반을 지속적으로 유지 ② 시장환경과 고객 Needs 변화에 대응한 신제품의 신속한 개발과 상용화\n다. 수주상황\n(단위 : 천USD )",
+            "contextAfter": "＃수주상황 작성 기준 ① 수주총액 : 계약금액에서 기산일 이전 매출액(2026년 이전 매출액) 제외 ② 기납품액 : 당기 매출액 ③ 수주잔고 : ①수주총액 - ②당기 매출액"
+          }
+        ]
+      }
+    ],
+    "searchedKeywords": [
+      "수주상황",
+      "수주현황",
+      "수주잔고",
+      "수주총액",
+      "계약잔액",
+      "order backlog",
+      "orders",
+      "수주"
+    ],
+    "scannedFiles": [
+      "20260811000431.xml"
+    ],
+    "warnings": []
+  },
+  {
+    "stockCode": "010120",
+    "corpCode": "00105855",
+    "corpName": "엘에스일렉트릭",
+    "report": {
+      "rceptNo": "20260814003088",
+      "reportName": "반기보고서 (2026.06)",
+      "reportDate": "20260814",
+      "corpCode": "00105855",
+      "reportType": "half",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003088"
+    },
+    "orderSections": [
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[7]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "당기 수주금액 / 수량",
+              "당기 수주금액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "당기 수주금액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "전력",
+                "T&D",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "48,902",
+                "-",
+                "34,293",
+                "-",
+                "14,299",
+                "-",
+                "68,896"
+              ],
+              [
+                "철도",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "1,153",
+                "-",
+                "201",
+                "-",
+                "414",
+                "-",
+                "940"
+              ],
+              [
+                "자동화",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "99",
+                "-",
+                "183",
+                "-",
+                "120",
+                "-",
+                "162"
+              ],
+              [
+                "합 계",
+                "-",
+                "50,154",
+                "-",
+                "34,677",
+                "-",
+                "14,833",
+                "-",
+                "69,998"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "당기 수주금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전력",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "T&D",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "48,902",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "34,293",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "14,299",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "68,896",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "철도",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,153",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "201",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "414",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "940",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "자동화",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "99",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "183",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "120",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "162",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "합 계",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 4
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "50,154",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "34,677",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "14,833",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "69,998",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "움구성 및 참여자로서 제품 및 서비스를 제공하고 있습니다.\n(2) 판매전략\n① 판매방법 및 조건 : 고객의 주문 또는 제안서 작성을 통한 공개 경쟁입찰에 참여하여 주관사업자 또는 참여사업자로서 고객에게 스마트팩토리 구축과 운영에 필요한 전체 솔루션 및 서비스를 통합제공하고 있으며 결제조건은 대부분 전자결제 방식을 이용한 사후결제 및 현금지급 조건입니다.\n② 판매전략 : 제조 IT중심 스마트팩토리 확산, AI 기반 고도화 기조에 따른 하이테크 산업군(반도체, 이차전지 등)의 신규거래처 발굴 및 기술고도화로 국내외 시장을 확대하고 고객 맞춤형 특화서비스를 제공하여 고객만족도를 향상시키고자 합니다.\n(3) 주요 매출처 및 매출비중주 고객과의 비밀유지계약 등에 따라 세부 매출처 및 매출비중 기재를 생략합니다.\n다. 수주 상황\n[LS ELECTRIC]\n(기준일 : 2026.06.30)\n(단위 : 억원 )",
+            "contextAfter": "※ T&D(Transmission & Distribution) : 송전 및 배전\n[LS메탈]\n(기준일 : 2026.06.30)\n(단위 : 톤, 억원 )"
+          }
+        ]
+      },
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[13]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "당기 수주금액 / 수량",
+              "당기 수주금액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "당기 수주금액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "금속",
+                "STS관",
+                "~'26.12",
+                "'26.01~",
+                "7,394",
+                "368",
+                "12,657",
+                "679",
+                "7,109",
+                "381",
+                "12,943",
+                "666"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "당기 수주금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "금속",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "STS관",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "7,394",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "368",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "12,657",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "679",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "7,109",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "381",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "12,943",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "666",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "(기준일 : 2026.06.30)\n(단위 : 억원 )\n※ T&D(Transmission & Distribution) : 송전 및 배전\n[LS메탈]\n(기준일 : 2026.06.30)\n(단위 : 톤, 억원 )",
+            "contextAfter": "[LS이모빌리티솔루션]\n(기준일 : 2026.06.30)\n(단위 : 억원 )"
+          }
+        ]
+      },
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[21]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "당기 수주금액 / 수량",
+              "당기 수주금액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "당기 수주금액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "전력",
+                "EV Relay 외",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "11,500",
+                "-",
+                "1,440",
+                "-",
+                "761",
+                "-",
+                "12,179"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "당기 수주금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전력",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "EV Relay 외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "11,500",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,440",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "761",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "12,179",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "(기준일 : 2026.06.30)\n(단위 : 톤, 억원 )\n[LS이모빌리티솔루션]\n(기준일 : 2026.06.30)\n(단위 : 억원 )",
+            "contextAfter": "[LS ELECTRIC Vietnam]"
+          }
+        ]
+      },
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[29]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "당기 수주금액 / 수량",
+              "당기 수주금액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "당기 수주금액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "전력",
+                "배전반 외",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "448",
+                "-",
+                "1,144",
+                "-",
+                "630",
+                "",
+                "962"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "당기 수주금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전력",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "배전반 외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "448",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "1,144",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "630",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "962",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "[LS ELECTRIC Vietnam]\n(기준일 : 2026.06.30)\n(단위 : 억원 )",
+            "contextAfter": "주) 분기별 평균 환율로 환산한 금액입니다.[LS Energy Solutions]\n(기준일 : 2026.06.30)\n(단위 : 억원 )"
+          }
+        ]
+      },
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[35]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "당기 수주금액 / 수량",
+              "당기 수주금액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "당기 수주금액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "전력",
+                "ESS 외",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "112",
+                "-",
+                "112",
+                "-",
+                "46",
+                "-",
+                "178"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "당기 수주금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전력",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "ESS 외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "112",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "112",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "46",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "178",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "(기준일 : 2026.06.30)\n(단위 : 억원 )\n주) 분기별 평균 환율로 환산한 금액입니다.[LS Energy Solutions]\n(기준일 : 2026.06.30)\n(단위 : 억원 )",
+            "contextAfter": "주) 분기별 평균 환율로 환산한 금액입니다.[LS파워솔루션]\n(기준일 : 2026.06.30)\n(단위 : 억원 )"
+          }
+        ]
+      },
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[41]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "당기 수주금액 / 수량",
+              "당기 수주금액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "당기 수주금액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "전력",
+                "변압기 외",
+                "~'26.12",
+                "'26.01~",
+                "-",
+                "2,207",
+                "-",
+                "4,288",
+                "-",
+                "720",
+                "-",
+                "5,775"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "당기 수주금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전력",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "변압기 외",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.01~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2,207",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "4,288",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "720",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "5,775",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "(기준일 : 2026.06.30)\n(단위 : 억원 )\n주) 분기별 평균 환율로 환산한 금액입니다.[LS파워솔루션]\n(기준일 : 2026.06.30)\n(단위 : 억원 )",
+            "contextAfter": "[LS티라유텍]\n(기준일 : 2026.06.30)\n(단위 : 억원 )"
+          }
+        ]
+      },
+      {
+        "title": "4. 매출 및 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주총액",
+          "수주"
+        ],
+        "sourceFile": "20260814003088.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-1[11]/LIBRARY[5]/SECTION-2[7]/LIBRARY[121]/TABLE[49]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "품목",
+              "수주일자",
+              "납기",
+              "이월 수주잔액 / 수량",
+              "이월 수주잔액 / 금액",
+              "수주총액 / 수량",
+              "수주총액 / 금액",
+              "기납품액 / 수량",
+              "기납품액 / 금액",
+              "수주잔고 / 수량",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "품목",
+                "수주일자",
+                "납기",
+                "이월 수주잔액",
+                "수주총액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액",
+                "수량",
+                "금액"
+              ]
+            ],
+            "headerSource": "explicit",
+            "rows": [
+              [
+                "자동화",
+                "파우치형 이차전지스마트팩토리 구축",
+                "'24.05~",
+                "~'26.12",
+                "-",
+                "10",
+                "-",
+                "-",
+                "-",
+                "2",
+                "-",
+                "8"
+              ],
+              [
+                "MES 구축",
+                "'26.02~",
+                "~'27.05",
+                "-",
+                "-",
+                "-",
+                "39",
+                "-",
+                "37",
+                "-",
+                "2"
+              ],
+              [
+                "물류자동화 공급",
+                "'25.07~",
+                "~'26.12",
+                "-",
+                "3",
+                "-",
+                "6",
+                "-",
+                "7",
+                "-",
+                "2"
+              ],
+              [
+                "IT서비스 및 SW매출",
+                "'25.07~",
+                "~'27.12",
+                "-",
+                "87",
+                "-",
+                "117",
+                "-",
+                "80",
+                "-",
+                "124"
+              ],
+              [
+                "상품매출",
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "56",
+                "-",
+                "56",
+                "-",
+                "-"
+              ],
+              [
+                "합 계",
+                "-",
+                "100",
+                "-",
+                "218",
+                "-",
+                "182",
+                "-",
+                "136"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "납기",
+                  "tag": "TH",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "이월 수주잔액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주총액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 2
+                }
+              ],
+              [
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수량",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TH",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "자동화",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "파우치형 이차전지스마트팩토리 구축",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'24.05~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "10",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "8",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "MES 구축",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'26.02~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'27.05",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "39",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "37",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "물류자동화 공급",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'25.07~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'26.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "3",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "6",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "7",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "IT서비스 및 SW매출",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "'25.07~",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "~'27.12",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "87",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "117",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "80",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "124",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "상품매출",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "56",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "56",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "합 계",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 4
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "100",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "218",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "182",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "136",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "(기준일 : 2026.06.30)\n(단위 : 억원 )\n[LS티라유텍]\n(기준일 : 2026.06.30)\n(단위 : 억원 )",
+            "contextAfter": ""
+          }
+        ]
+      }
+    ],
+    "searchedKeywords": [
+      "수주상황",
+      "수주현황",
+      "수주잔고",
+      "수주총액",
+      "계약잔액",
+      "order backlog",
+      "orders",
+      "수주"
+    ],
+    "scannedFiles": [
+      "20260814003088.xml"
+    ],
+    "warnings": []
+  },
+  {
+    "stockCode": "267260",
+    "corpCode": "01205851",
+    "corpName": "HD현대일렉트릭",
+    "report": {
+      "rceptNo": "20260814003228",
+      "reportName": "반기보고서 (2026.06)",
+      "reportDate": "20260814",
+      "corpCode": "01205851",
+      "reportType": "half",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003228"
+    },
+    "orderSections": [
+      {
+        "title": "다. 수주상황\n1) HD현대일렉트릭(주) 및 그 종속회사",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주잔고",
+          "수주총액",
+          "수주",
+          "수주상황"
+        ],
+        "sourceFile": "20260814003228.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-2[11]/LIBRARY[5]/TABLE[3]/TBODY[5]/TR[1]/SECTION-1[0]/LIBRARY[5]/SECTION-2[7]/TABLE[41]",
+        "tables": [
+          {
+            "columns": [
+              "구 분",
+              "품 목",
+              "수주일자",
+              "수주총액 / 금액",
+              "기납품액 / 금액",
+              "수주잔고 / 금액"
+            ],
+            "headerRows": [
+              [
+                "구 분",
+                "품 목",
+                "수주일자",
+                "수주총액",
+                "기납품액",
+                "수주잔고"
+              ],
+              [
+                "금액",
+                "금액",
+                "금액"
+              ]
+            ],
+            "headerSource": "inferred",
+            "rows": [
+              [
+                "전기전자부문",
+                "변압기, 고압차단기회전기, 저압전동기배전반, 중저압차단기전력변환 및 에너지저장장치 등",
+                "2026.06.30 까지",
+                "14,488,813",
+                "2,178,313",
+                "12,310,500"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "구 분",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품 목",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주일자",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주총액",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "기납품액",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "수주잔고",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "금액",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "금액",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "전기전자부문",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "변압기, 고압차단기회전기, 저압전동기배전반, 중저압차단기전력변환 및 에너지저장장치 등",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2026.06.30 까지",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "14,488,813",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2,178,313",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "12,310,500",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "※ 당반기(누적) 연결 매출의 5% 이상을 차지하는 매출처를 기재하였습니다.\n다. 수주상황\n1) HD현대일렉트릭(주) 및 그 종속회사\n(단위 : 백만원)",
+            "contextAfter": "※ 수주총액 : 전기 이월 수주잔고 + 당반기 누적 수주총액, 기납품액 : 당반기 누적 매출액※ 상기 수주잔고는 주요 종속회사를 포함한 연결기준 수치이며, 당사가 추정하고 있는 예상 환율로 환산한 금액입니다."
+          }
+        ]
+      }
+    ],
+    "searchedKeywords": [
+      "수주상황",
+      "수주현황",
+      "수주잔고",
+      "수주총액",
+      "계약잔액",
+      "order backlog",
+      "orders",
+      "수주"
+    ],
+    "scannedFiles": [
+      "20260814003228.xml"
+    ],
+    "warnings": []
+  },
+  {
+    "stockCode": "298040",
+    "corpCode": "01316245",
+    "corpName": "효성중공업",
+    "report": {
+      "rceptNo": "20260813001554",
+      "reportName": "반기보고서 (2026.06)",
+      "reportDate": "20260813",
+      "corpCode": "01316245",
+      "reportType": "half",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554"
+    },
+    "orderSections": [
+      {
+        "title": "(3) 수주상황",
+        "sectionTitle": "4. 매출 및 수주상황",
+        "text": "",
+        "matchedKeywords": [
+          "수주",
+          "수주상황"
+        ],
+        "sourceFile": "20260813001554.xml",
+        "sourcePath": "/DOCUMENT[0]/BODY[9]/SECTION-1[11]/SECTION-2[11]/TABLE[15]/TABLE[11]/TBODY[5]/TR[3]/SECTION-1[0]/LIBRARY[5]/SECTION-2[7]/TABLE[35]",
+        "tables": [
+          {
+            "columns": [
+              "사업부문",
+              "지배회사 및 주요종속회사",
+              "품목",
+              "전기말 수주잔(2025.12.31)",
+              "당기 수주액(2026.1~6월)",
+              "당기 매출액(2026.1~6월)",
+              "당기말 수주잔(2026.6.30)",
+              "비고"
+            ],
+            "headerRows": [
+              [
+                "사업부문",
+                "지배회사 및 주요종속회사",
+                "품목",
+                "전기말 수주잔(2025.12.31)",
+                "당기 수주액(2026.1~6월)",
+                "당기 매출액(2026.1~6월)",
+                "당기말 수주잔(2026.6.30)",
+                "비고"
+              ]
+            ],
+            "headerSource": "inferred",
+            "rows": [
+              [
+                "중공업",
+                "효성중공업(주)",
+                "변압기, 차단기, 전동기 등전력기기",
+                "15,936,349",
+                "11,010,478",
+                "2,924,567",
+                "23,834,404",
+                "공시서류작성기준일(2026.6.30)환율 적용 환산금액"
+              ],
+              [
+                "Nantong Hyosung Transformer Co., Ltd."
+              ],
+              [
+                "Hyosung T&D India Pvt. Ltd."
+              ],
+              [
+                "Hyosung HICO, Ltd."
+              ],
+              [
+                "HICO America Sales&Tech, Inc."
+              ],
+              [
+                "건설",
+                "효성중공업(주)",
+                "아파트, 상업시설, 도로, 철도 등",
+                "5,518,255",
+                "447,126",
+                "642,766",
+                "5,322,614",
+                "-"
+              ],
+              [
+                "진흥기업(주)",
+                "3,531,186",
+                "673,807",
+                "403,762",
+                "3,801,231"
+              ]
+            ],
+            "cells": [
+              [
+                {
+                  "text": "사업부문",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "지배회사 및 주요종속회사",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "품목",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "전기말 수주잔(2025.12.31)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "당기 수주액(2026.1~6월)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "당기 매출액(2026.1~6월)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "당기말 수주잔(2026.6.30)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "비고",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "중공업",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "효성중공업(주)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "변압기, 차단기, 전동기 등전력기기",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "15,936,349",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "11,010,478",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "2,924,567",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "23,834,404",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                },
+                {
+                  "text": "공시서류작성기준일(2026.6.30)환율 적용 환산금액",
+                  "tag": "TD",
+                  "rowSpan": 5,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "Nantong Hyosung Transformer Co., Ltd.",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "Hyosung T&D India Pvt. Ltd.",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "Hyosung HICO, Ltd.",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "HICO America Sales&Tech, Inc.",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "건설",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "효성중공업(주)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "아파트, 상업시설, 도로, 철도 등",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                },
+                {
+                  "text": "5,518,255",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "447,126",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "642,766",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "5,322,614",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "-",
+                  "tag": "TD",
+                  "rowSpan": 2,
+                  "colSpan": 1
+                }
+              ],
+              [
+                {
+                  "text": "진흥기업(주)",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "3,531,186",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "673,807",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "403,762",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                {
+                  "text": "3,801,231",
+                  "tag": "TD",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                }
+              ]
+            ],
+            "contextBefore": "5) 주요매출처 및 비중2026년 상반기 지배회사의 주요 매출처는 HICO(18.83%), 한국전력(9.09%), 부산우암1구역 주택재개발정비사업조합(4.95%), 부평산곡 재개발정비사업조합(3.95%), NSW ELECTRICITY(3.54%), 성남중1구역 도시환경정비사업조합(3.43%), 한화오션(3.06%), 평택가재(2.59%), STATNETT(1.89%) 등입니다.\n[주요종속회사의 내용]\n(3) 수주상황\n(단위 : 백만원)",
+            "contextAfter": "※ 수주의 계절적 변동요인\n전력기기에 대한 수용가의 발주는 중장기적 계획에 의하여 이루어지기 때문에 수주의 계절적 변동요인은 크지 않으며, 기전부문에서는 계절적 요인보다 경기 변동, 설비투자 동향, 정부정책 및 규제 등의 영향을 받는 경향이 있습니다."
+          }
+        ]
+      }
+    ],
+    "searchedKeywords": [
+      "수주상황",
+      "수주현황",
+      "수주잔고",
+      "수주총액",
+      "계약잔액",
+      "order backlog",
+      "orders",
+      "수주"
+    ],
+    "scannedFiles": [
+      "20260813001554.xml"
+    ],
+    "warnings": []
+  }
+]

@@ -4,6 +4,7 @@ import { useRef, useState, type FormEvent, type ReactNode } from "react";
 import { Activity, ArrowUpRight, ChartNoAxesCombined, CircleAlert, Loader2, Plus, Trash2, Users } from "lucide-react";
 import { Bar, BarChart, CartesianGrid, Cell, LabelList, Line, LineChart, ReferenceLine, ResponsiveContainer, Scatter, ScatterChart, Tooltip, XAxis, YAxis, ZAxis } from "recharts";
 import type { PeerAnalysisResponse, PeerMetrics } from "@/app/api/peer-analysis/route";
+import DataSourceComparison from "./DataSourceComparison";
 
 const COLORS = ["#2563eb", "#089981", "#d99720", "#8757c7", "#db5976", "#0e9fb5", "#e37535", "#68758c"];
 const METRICS = [
@@ -151,6 +152,7 @@ export default function PeerAnalysis() {
           </Card>
         </div>
       </div>}
+      <DataSourceComparison peers={normalized} />
       <footer className="footer"><span>PEER RESEARCH TOOL</span><span>Yahoo Finance · 기업별 재무 제공 범위와 결산 시점이 다를 수 있습니다.</span></footer>
     </main>
   </div>;

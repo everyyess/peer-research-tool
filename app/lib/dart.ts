@@ -45,7 +45,7 @@ const DART_ERRORS: Record<string, { message: string; status: number }> = {
   "901": { message: "DART API 키의 개인정보 보유기간이 만료되었습니다.", status: 502 },
 };
 
-export function requestDart(apiKey: string, endpoint: "corpCode.xml" | "fnlttSinglAcntAll.json", params: Record<string, string> = {}): Promise<Buffer> {
+export function requestDart(apiKey: string, endpoint: "corpCode.xml" | "fnlttSinglAcntAll.json" | "list.json" | "document.xml", params: Record<string, string> = {}): Promise<Buffer> {
   // Native HTTPS avoids Next.js fetch URL logging (the DART key is a query parameter).
   const url = new URL(endpoint, "https://opendart.fss.or.kr/api/");
   for (const [key, value] of Object.entries(params)) url.searchParams.set(key, value);
